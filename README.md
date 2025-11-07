@@ -41,7 +41,7 @@ The dashboard is comprised of several specialized views to cater to different bu
 
 A star schema was implemented to create a clean and efficient data model, connecting fact tables (e.g., sales data) with multiple dimension tables (e.g., products, customers, date).
 
-![Data Model](link_to_your_data_model_screenshot.png)
+![Data Model](https://github.com/Omkar3101/Business_Insights_360/blob/main/datamodel.png)
 
 ---
 
