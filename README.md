@@ -1,6 +1,6 @@
 # Business Insights 360 - A Power BI Project for AtliQ Hardware
 
-### 🔗 [View the Live Interactive Dashboard Here](YOUR_LINK_TO_LIVE_DASHBOARD)
+### 🔗 [View the Live Interactive Dashboard Here](https://www.novypro.com/project/business-insights-360-224)
 
 ---
 
@@ -11,12 +11,6 @@ This project is a comprehensive Power BI dashboard designed to provide a 360-deg
 The project addresses the business problem of significant losses faced by AtliQ Hardware due to a lack of timely and accessible data insights.
 
 ---
-
-## ✨ Dashboard Preview
-
-*(Here, you can insert a GIF of your dashboard in action! To do this, upload the GIF to your repo and use this link format: ![Dashboard GIF](dashboard_preview.gif))*
-
-![Dashboard GIF](link_to_your_gif.gif)
 
 ---
 
