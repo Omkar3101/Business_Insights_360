@@ -121,3 +121,11 @@ This project reflects not only my technical skills but also my ability to **thi
 👉 If you’re hiring for **Data Analyst / BI Analyst roles**, I’d love to bring the same impact to your team.
 
 ✨ If you found this project valuable, feel free to **star ⭐ the repo** and **connect with me on LinkedIn**!
+
+### **Connect with Me**
+
+If you found this project insightful or want to discuss data, technology, and new opportunities, feel free to connect with me on my professional platforms:
+
+- 💼 **LinkedIn:** [**Omkar Sharma**](https://www.linkedin.com/in/omkar3101)
+- 📂 **Portfolio:** [**My Portfolio**](https://rhinestone-dibble-6c6.notion.site/Omkar-Sharma-2a56733b537c800db9ebe11314a946b5)
+- 💻 **GitHub:** [**@Omkar3101**](https://github.com/Omkar3101)
