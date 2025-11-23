@@ -1,6 +1,6 @@
 # **Business Insights 360: Strategic Decision Support System**
 
-### **[🔗 View Live Interactive Dashboard](#)** *(https://www.novypro.com/project/business-insights-360-224)*
+### **[🔗 View Live Interactive Dashboard](https://www.novypro.com/project/business-insights-360-224)*
 
 ---
 
