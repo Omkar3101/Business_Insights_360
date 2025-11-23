@@ -1,131 +1,90 @@
-# Business Insights 360 - A Power BI Project for AtliQ Hardware
+# **Business Insights 360: Strategic Decision Support System**
 
-### 🔗 [View the Live Interactive Dashboard Here](https://www.novypro.com/project/business-insights-360-224)
-
-**AtliQ Hardware BI Project**
-
-AtliQ Hardware is one of the fastest-growing companies in the electronics market. But their growth journey was built on **gut feelings and assumptions**, which led to costly mistakes—like a failed expansion into Latin America.
-
-That’s when they realized: **data is not optional, it’s essential.**
-
-This project demonstrates how I, as a **Data Analyst**, built an **end-to-end BI solution** to transform AtliQ’s raw data into actionable insights across **Finance, Sales, Marketing, Supply Chain, and Executive reporting**.
----
-
-**🟡 Problem Statement**
-
-- AtliQ relied heavily on assumptions for business expansion.
-- The Latin America expansion led to major losses due to lack of data-backed decisions.
-- Fierce competition (like DALL·E) was already leveraging analytics.
-- Leadership needed a **data-driven system** to compete and grow sustainably.
+### **[🔗 View Live Interactive Dashboard](#)** *(https://www.novypro.com/project/business-insights-360-224)*
 
 ---
 
-**🟠 My Role**
+### **Project Overview**
 
-As the Data Analyst, I:
+Designed a strategic **Business 360 solution** for AtliQ Hardware to **optimize decision-making** across Finance, Sales, Marketing, and Supply Chain. This project moves beyond simple reporting to provide a holistic view of **Profitability** and **Market Share trends**, acting as a single source of truth for stakeholders.
 
-- ✔ Collected and connected data from **MySQL & Excel/CSV sources**
-- ✔ Cleaned and transformed datasets using **Power Query**
-- ✔ Designed a **star schema data model** for efficiency
-- ✔ Built KPIs using **DAX** (Net Sales, Gross Margin %, Forecast Accuracy, etc.)
-- ✔ Created **five interactive dashboards** with storytelling and navigation
-- ✔ Delivered **insights for business growth**
+This solution empowers the leadership team to transition from intuition-based decisions to data-driven strategies, directly addressing challenges in market expansion and resource allocation.
 
 ---
 
-**📈 Dashboard Views**
+### **Business Problem**
 
-**💰 Finance View**
+AtliQ Hardware, a rapidly growing electronics manufacturer, faced significant operational inefficiencies due to a reliance on disparate data sources (Excel/SQL) and intuition-based planning. This lack of visibility led to:
+*   **Suboptimal Market Expansion:** Significant losses in the Latin America region due to a lack of data-backed strategic planning.
+*   **Inventory Mismanagement:** Fluctuations between excess inventory and stockouts caused by poor forecast accuracy.
+*   **Revenue Leakage:** Inability to track negative effective margins and operational expenses at a granular level.
 
-- Key financial metrics like Net Sales, Gross Margin (GM%), and Net Profit (NP%) are shown with comparisons to the last year (LY) and target.
-- A Net Sales Performance Over Time chart visualizes monthly sales trends.
-- A Profit & Loss Statement provides a detailed breakdown of revenues, costs, and profits.
-- A chart highlights the Top/Bottom Customers & Products based on net sales.
-
-![Dashboard Overview]()
-
-**🤝 Sales View**
-
-- A Performance Matrix plots Gross Margin against Net Sales for different stores and regions.
-- The Customer Performance table shows Net Sales (),GrossMargin(), and GM% for individual customers.
-- Unit Economics are detailed in a donut chart, breaking down total COGS (Cost of Goods Sold), Gross Margin, and Net Sales.
-
-![Dashboard Overview]()
-
-**📣 Marketing View**
-
-- Market Performance is visualized on a scatter plot, showing Net Profit % across different markets (countries).
-- A table provides a detailed view of Net Sales, Gross Margin, and Net Profit for various countries and segments.
-- A Net Sales & Gross Margin Bifurcation chart shows the relationship between Gross Margin, Operational Expense, and Net Profit
-
-![Dashboard Overview]()
-
-**⛓️ Supply Chain View**
-
-- Forecast Accuracy and Net Error are the main metrics, with a trend chart showing performance over time.
-- Key Metrics by Customer and by Product tables show forecast accuracy (FCA), net error, and a risk assessment (e.g., Excess Inventory or Out-of-Stock).
-- The data helps in identifying inventory issues and optimizing supply chain operations.
-
-![Dashboard Overview]()
-
-**🧑‍💼 Executive View**
-
-- A high-level summary of all key metrics including Net Sales, GM%, NP%, and Forecast Accuracy.
-- Trends over time for revenue contribution, GM%, and NP% are displayed on line and bar charts.
-- Tables provide a quick look at the Top 5 Customers & Products based on revenue contribution and Gross Margin.
-- Sub-region performance is summarized in a single table, showing a quick comparison of financial health and risk across different geographic areas.
-
-![Dashboard Overview]()
+**The Goal:** To engineer a centralized, automated, and interactive BI tool that provides actionable insights for **Profitability Analysis**, **Marketing ROI**, and **Supply Chain Efficiency**.
 
 ---
 
-**💡 Key Insights Delivered**
+### **Strategic Business Impact**
 
-- 📉 Latin America: Poor forecast accuracy + low profit margin = expansion risks
-- 📈 Market share increased despite negative net profit → promotions are working
-- 🏬 Inventory issues: Initially excess stock, later out-of-stock → signs of growth stage
-- 🎯 Top customers/products identified for targeted strategies
-- 💰 High operational expenses dragging net profit down despite good sales
+Aligned with the project goals, the solution delivered the following strategic outcomes:
 
----
-
-**🛠 Tools & Skills Used**
-
-- **Power BI**: Data modeling, DAX, KPIs, visuals, bookmarks, navigation
-- **SQL**: Extracting, transforming, and joining datasets from MySQL
-- **Excel/CSV**: Handling targets, market share & external datasets
-- **Power Query (ETL)**: Data cleaning and transformations
-- **DAX Studio**: Performance tuning and query optimization
-- **Data Storytelling**: Turning dashboards into actionable insights
+*   **Strategic Alignment:** Translated unstructured business requirements into a cohesive **analytical strategy**, creating scenario-based visuals to support executive-level decisions on resource allocation and target setting.
+*   **Performance Tracking:** Engineered a robust data model to track **Key Performance Indicators (KPIs)** against strategic business goals, enabling proactive identification of underperforming regions and customers.
+*   **Operational Optimization:** Provided a 360-degree view of the business, allowing departments to identify cost-saving opportunities and optimize **Net Profit margins**.
 
 ---
 
-**🌟 Why This Project Matters**
+### **Dashboard Views & Analysis**
 
-This isn’t just a dashboard—it’s a **data story** that shows how analytics can:
+The solution is divided into 5 specialized views to cater to different stakeholders:
 
-- ✔ Prevent costly mistakes
-- ✔ Drive sustainable growth
-- ✔ Give leadership the confidence to make bold moves
+**1. 💰 Finance View (P&L Optimization)**
+*   **Objective:** Analyze financial health across markets, products, and customers.
+*   **Key Insights:** Detailed P&L statements allowing drill-downs into **Net Sales**, **Gross Margin**, and **Net Profit**.
+*   **Impact:** Enables financial planners to benchmark performance against last year (LY) and set realistic targets (YTD).
 
-For me, it was about **thinking like a business analyst**, **communicating like a consultant**, and **delivering like a data professional**.
+**2. 🤝 Sales View (Customer & Market Strategy)**
+*   **Objective:** Identify top-performing customers and market opportunities.
+*   **Key Insights:** Customer Performance Matrix (Net Sales vs. Gross Margin) to identify high-volume but low-margin clients.
+*   **Impact:** Helps the sales team negotiate better discount structures and focus on **high-value customer cohorts**.
+
+**3. 📣 Marketing View (ROI & Product Performance)**
+*   **Objective:** Evaluate product performance and campaign effectiveness.
+*   **Key Insights:** Visualized **Market Share** trends and Gross Margin % to assess product profitability.
+*   **Impact:** Supports the marketing team in reallocating budget to high-ROI regions and products.
+
+**4. ⛓️ Supply Chain View (Forecast Accuracy)**
+*   **Objective:** Optimize inventory levels and reduce supply chain costs.
+*   **Key Insights:** Tracks **Forecast Accuracy**, **Net Error**, and risk assessment (Out-of-Stock vs. Excess Inventory).
+*   **Impact:** Directly supports inventory planning to minimize carrying costs and prevent lost sales.
+
+**5. 🧑‍💼 Executive View (High-Level Strategy)**
+*   **Objective:** Provide a consolidated snapshot for C-suite executives.
+*   **Key Insights:** Trends in Revenue Contribution, Market Share, and top 5 Customers/Products by revenue.
+*   **Impact:** Facilitates quick, data-backed strategic pivots and long-term planning.
 
 ---
 
-**🙋 About Me**
+### **Technical Implementation**
 
-I’m passionate about **solving business problems with data**.
+*   **Data Modeling:** Engineered a robust **Star Schema** data model to handle complex relationships between sales, finance, and target datasets.
+*   **ETL Pipeline:** Orchestrated an end-to-end **Data Pipelining** process using **Power Query** to clean, transform, and normalize data from MySQL and Excel sources.
+*   **Advanced DAX:** Wrote **20+ complex DAX measures** (e.g., Net Profit %, Forecast Accuracy, YoY Growth) to derive custom business logic.
+*   **UX/UI Design:** Implemented advanced features like **Bookmarks**, **Page Navigation**, and **Dynamic Titles** to enhance user experience and story flow.
 
-This project reflects not only my technical skills but also my ability to **think critically, find insights, and tell compelling stories with data**.
+---
 
-👉 If you’re hiring for **Data Analyst / BI Analyst roles**, I’d love to bring the same impact to your team.
+### **Tools Used**
+*   **Power BI:** Dashboarding & Visualization
+*   **SQL:** Data Extraction & Validation
+*   **DAX Studio:** Performance Optimization
+*   **Excel:** Data Verification & Target Setting
 
-✨ If you found this project valuable, feel free to **star ⭐ the repo** and **connect with me on LinkedIn**!
+---
 
 ### **Connect with Me**
 
-If you found this project insightful or want to discuss data, technology, and new opportunities, feel free to connect with me on my professional platforms:
+If you found this project insightful or want to discuss data strategy, optimization, and analytics opportunities, feel free to connect!
 
-- 💼 **LinkedIn:** [**Omkar Sharma**](https://www.linkedin.com/in/omkar3101)
-- 📂 **Portfolio:** [**My Portfolio**](https://rhinestone-dibble-6c6.notion.site/Omkar-Sharma-2a56733b537c800db9ebe11314a946b5)
-- 💻 **GitHub:** [**@Omkar3101**](https://github.com/Omkar3101)
+*   💼 **LinkedIn:** [**Omkar Sharma**](https://www.linkedin.com/in/omkar3101)
+*   📂 **Portfolio:** [**My Portfolio**](https://rhinestone-dibble-6c6.notion.site/Omkar-Sharma-2a56733b537c800db9ebe11314a946b5)
+*   💻 **GitHub:** [**@Omkar3101**](https://github.com/Omkar3101)
